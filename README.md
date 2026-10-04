@@ -241,4 +241,4 @@ This repository serves as the official landing page for FreeDOS. The software is
 **Get the most recent version of FreeDOS today!**
 
 ---
-**Last updated:** 2026-10-04 09:33:49 UTC
+**Last updated:** 2026-10-04 15:14:21 UTC
